@@ -18,7 +18,6 @@ Meu nome é Edgar Andrade, e sou um entusiasta de desenvolvimento web full-stack
 
 | Comunicação eficaz | Trabalho em equipe | Resolução de problemas | Gestão do tempo | Adaptabilidade | Aprendizado contínuo | Atitude positiva | Empatia |
 |---------------------|--------------------|------------------------|-----------------|----------------|----------------------|-------------------|---------|
-| :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:     | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:   | :heavy_check_mark:| :heavy_check_mark:|
 
 ## Linguagens e Tecnologias
 
