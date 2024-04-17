@@ -28,6 +28,10 @@ Meu nome é Edgar Andrade, e sou um entusiasta de desenvolvimento web full-stack
 | JavaScript            | Jest                  | MySQL                 | Algoritmos            |
 | Git                   | RTL (React Testing Library) | MongoDB         | Complexidade de algoritmos |
 
+## Contato
+
+Se você gostaria de entrar em contato ou colaborar em algum projeto, fique à vontade para me encontrar no LinkedIn .[aqui](https://www.linkedin.com/in/edgar-andrade-582a57250/) ou pelo meu email .[aqui](edgar.dev22@gmail.com).
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edgaraf7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 --- 
