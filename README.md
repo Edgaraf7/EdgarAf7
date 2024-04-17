@@ -32,9 +32,8 @@ Meu nome é Edgar Andrade, e sou um entusiasta de desenvolvimento web full-stack
 
 Se você gostaria de entrar em contato ou colaborar em algum projeto, fique à vontade para me encontrar no [LinkedIn](https://www.linkedin.com/in/edgar-andrade-582a57250/) ou Email: edgar.dev22@gmail.com
 
-<div style="width: 100%;">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edgaraf7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edgaraf7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
