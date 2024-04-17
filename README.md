@@ -30,7 +30,8 @@ Meu nome é Edgar Andrade, e sou um entusiasta de desenvolvimento web full-stack
 
 ## Contato
 
-Se você gostaria de entrar em contato ou colaborar em algum projeto, fique à vontade para me encontrar no <a href="https://www.linkedin.com/in/edgar-andrade-582a57250/" target="_blank" rel="noopener noreferrer">LinkedIn</a> ou Email: edgar.dev22@gmail.com
+Se você gostaria de entrar em contato ou colaborar em algum projeto, fique à vontade para me encontrar no <a href="https://www.linkedin.com/in/edgar-andrade-582a57250/" onclick="window.open('https://www.linkedin.com/in/edgar-andrade-582a57250/', '_blank'); return false;">LinkedIn</a> ou Email: edgar.dev22@gmail.com
+
 
 
 <div style="width: 100%;">
