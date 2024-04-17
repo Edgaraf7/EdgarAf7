@@ -34,4 +34,5 @@ Se você gostaria de entrar em contato ou colaborar em algum projeto, fique à v
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edgaraf7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
 --- 
