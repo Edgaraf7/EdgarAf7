@@ -1,22 +1,43 @@
-**Sobre mim**
+# Edgar Andrade
 
-Olá! Sou Edgar, um Desenvolvedor Web FullStack com experiência em uma variedade de tecnologias. Meu foco principal é trabalhar com JavaScript tanto no frontend quanto no backend, mas também tenho experiência em Python, HTML, CSS, TypeScript, Docker, MySQL e mais. Abaixo está um resumo das linguagens e ferramentas com as quais trabalho:
+Olá! 👋
+
+Meu nome é Edgar Andrade, e sou um entusiasta de desenvolvimento web full-stack. Atualmente, estou focado em aprimorar minhas habilidades técnicas e soft skills. Este é meu espaço para compartilhar um pouco sobre mim e minhas experiências.
+
+## Sobre mim
+
+🎓 Sou um estudante dedicado e apaixonado por tecnologia, com um forte interesse no desenvolvimento de software. Minha jornada começou com cursos introdutórios onde adquiri uma base sólida em HTML, CSS e JavaScript no Youtube. Posteriormente, aprofundei meus conhecimentos na Trybe, completando mais de 20 projetos que abrangem uma variedade de tecnologias.
+
+💻 Tenho experiência prática com JavaScript e TypeScript, e estou familiarizado com bancos de dados como MySQL e MongoDB. Além disso, desenvolvi habilidades em frameworks como React e Redux, tanto no front-end quanto no back-end com Node.js e Express.js.
+
+🔧 Estou confortável com o uso de ferramentas de controle de versão, como o Git, e tenho experiência em testes de software utilizando Jest e RTL (React Testing Library).
+
+🌍 Meu objetivo futuro é aplicar meus conhecimentos em projetos que tenham um impacto positivo na sociedade, utilizando a tecnologia como uma ferramenta para melhorar a vida das pessoas.
+
+## Soft Skills
+
+| Comunicação eficaz | Trabalho em equipe | Resolução de problemas | Gestão do tempo | Adaptabilidade | Aprendizado contínuo | Atitude positiva | Empatia |
+|---------------------|--------------------|------------------------|-----------------|----------------|----------------------|-------------------|---------|
+
+## Linguagens e Tecnologias
+
+| Fundamentos           | Front-End             | Back-End              | Ciência da Computação |
+|-----------------------|-----------------------|-----------------------|-----------------------|
+| HTML                  | React                 | Node.js               | Python                |
+| CSS                   | Redux                 | Express.js            | Estruturas de dados  |
+| JavaScript            | Jest                  | MySQL                 | Algoritmos            |
+| Git                   | RTL (React Testing Library) | MongoDB         | Complexidade de algoritmos |
+
 
 <div style="width: 100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgaraf7&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgaraf7&layout=compact" style="width: 50%;" />
   </a>
 </div>
 
-**Sobre mim:**
 
-Sou um entusiasta da tecnologia que ama resolver problemas e criar soluções eficientes. Sou apaixonado por aprender novas coisas e sempre busco me atualizar com as últimas tendências e práticas da indústria de desenvolvimento de software. Adoro trabalhar em equipe e colaborar em projetos desafiadores que me permitam crescer como profissional.
+## Contato
 
-**Contato:**
+Se você gostaria de entrar em contato ou colaborar em algum projeto, fique à vontade para me encontrar no <a href="https://www.linkedin.com/in/edgar-andrade-582a57250/" target="_blank" rel="noopener noreferrer" onclick="window.open('https://www.linkedin.com/in/edgar-andrade-582a57250/', '_blank'); return false;">LinkedIn</a> ou Email: edgar.dev22@gmail.com
 
-- Email: [seuemail@example.com](mailto:seuemail@example.com)
-- LinkedIn: [linkedin.com/edgar](https://www.linkedin.com/edgar)
-- GitHub: [github.com/edgar](https://github.com/edgar)
-
-Sinta-se à vontade para entrar em contato comigo se precisar de ajuda em algum projeto ou apenas para trocar ideias sobre tecnologia!
-
+--- 
