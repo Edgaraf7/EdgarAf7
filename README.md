@@ -14,9 +14,11 @@ Meu nome é Edgar Andrade, e sou um entusiasta de desenvolvimento web full-stack
 
 🌍 Meu objetivo futuro é aplicar meus conhecimentos em projetos que tenham um impacto positivo na sociedade, utilizando a tecnologia como uma ferramenta para melhorar a vida das pessoas.
 
-## Soft Skills
+
 
 <div style="width: 100%;">
+  ## Soft Skills
+
 | Comunicação eficaz | Trabalho em equipe | Resolução de problemas | Gestão do tempo | Adaptabilidade | Aprendizado contínuo | Atitude positiva | Empatia |
 |---------------------|--------------------|------------------------|-----------------|----------------|----------------------|-------------------|---------|
 
@@ -28,9 +30,6 @@ Meu nome é Edgar Andrade, e sou um entusiasta de desenvolvimento web full-stack
 | CSS                   | Redux                 | Express.js            | Estruturas de dados  |
 | JavaScript            | Jest                  | MySQL                 | Algoritmos            |
 | Git                   | RTL (React Testing Library) | MongoDB         | Complexidade de algoritmos |
-</div>
-
-<div style="width: 100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgaraf7&layout=compact" style="width: 70%;" />
   </a>
