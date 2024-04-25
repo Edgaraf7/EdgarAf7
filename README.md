@@ -14,6 +14,8 @@ Meu nome é Edgar Andrade, e sou um entusiasta de desenvolvimento web full-stack
 
 🌍 Meu objetivo futuro é aplicar meus conhecimentos em projetos que tenham um impacto positivo na sociedade, utilizando a tecnologia como uma ferramenta para melhorar a vida das pessoas.
 
+---
+
 ## Soft Skills
 
 | Comunicação eficaz | Trabalho em equipe | Resolução de problemas | Gestão do tempo | Adaptabilidade | Aprendizado contínuo | Atitude positiva | Empatia |
@@ -22,8 +24,8 @@ Meu nome é Edgar Andrade, e sou um entusiasta de desenvolvimento web full-stack
 
 ## Linguagens e Tecnologias
 
----
-
+<div style="width: 100%;">
+  
 | Fundamentos           | Front-End             | Back-End              | Ciência da Computação |
 |-----------------------|-----------------------|-----------------------|-----------------------|
 | HTML                  | React                 | Node.js               | Python                |
@@ -31,7 +33,8 @@ Meu nome é Edgar Andrade, e sou um entusiasta de desenvolvimento web full-stack
 | JavaScript            | Jest                  | MySQL                 | Algoritmos            |
 | Git                   | RTL (React Testing Library) | MongoDB         | Complexidade de algoritmos |
 
----
+</div>
+
 
 <div style="width: 100%;">
 
