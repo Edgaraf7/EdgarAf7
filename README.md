@@ -22,6 +22,8 @@ Meu nome é Edgar Andrade, e sou um entusiasta de desenvolvimento web full-stack
 
 ## Linguagens e Tecnologias
 
+---
+
 | Fundamentos           | Front-End             | Back-End              | Ciência da Computação |
 |-----------------------|-----------------------|-----------------------|-----------------------|
 | HTML                  | React                 | Node.js               | Python                |
@@ -29,6 +31,7 @@ Meu nome é Edgar Andrade, e sou um entusiasta de desenvolvimento web full-stack
 | JavaScript            | Jest                  | MySQL                 | Algoritmos            |
 | Git                   | RTL (React Testing Library) | MongoDB         | Complexidade de algoritmos |
 
+---
 
 <div style="width: 100%;">
 
